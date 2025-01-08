@@ -44,7 +44,7 @@ An intelligent Checkers-playing agent implemented using Monte Carlo Tree Search 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/monte-carlo-checkers.git
+git clone [https://github.com/yourusername/monte-carlo-checkers.git](https://github.com/Abhay-2004/monte-carlo-checkers.git)
 ```
 
 2. Compile the code:
